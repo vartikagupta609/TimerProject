@@ -1,0 +1,39 @@
+.particles{
+  position: fixed;
+  top:0;
+  bottom: 0;
+  left: 0;
+  right:0;
+  z-index: -1;
+}
+
+.btn{
+  height:3.3rem;
+  width:3.3rem;
+  border-radius: 40%;
+  align-items: center;
+  padding:0.2rem;
+  margin:1rem;
+  text-align: center;
+  font-style: bold;
+  font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+  cursor: pointer;
+  background-color: green;
+  color: white
+}
+input{
+  border-radius:20%;
+  margin-left: 14rem
+}
+label{
+  font-size:3rem;
+  margin-left: 10rem
+}
+h2, h4
+{
+  margin-left: 10rem;
+  font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif
+}
+.clock-sub{
+  font-size: 8rem
+}
