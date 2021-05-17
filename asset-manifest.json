@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/TimerProject/static/css/main.b76c0683.chunk.css",
+    "main.css": "/TimerProject/static/css/main.a8c41269.chunk.css",
     "main.js": "/TimerProject/static/js/main.af9099c1.chunk.js",
     "main.js.map": "/TimerProject/static/js/main.af9099c1.chunk.js.map",
     "runtime-main.js": "/TimerProject/static/js/runtime-main.a027f383.js",
@@ -12,7 +12,7 @@
     "static/js/3.33741618.chunk.js.map": "/TimerProject/static/js/3.33741618.chunk.js.map",
     "index.html": "/TimerProject/index.html",
     "static/css/2.fe359a49.chunk.css.map": "/TimerProject/static/css/2.fe359a49.chunk.css.map",
-    "static/css/main.b76c0683.chunk.css.map": "/TimerProject/static/css/main.b76c0683.chunk.css.map",
+    "static/css/main.a8c41269.chunk.css.map": "/TimerProject/static/css/main.a8c41269.chunk.css.map",
     "static/js/2.3c8f35a1.chunk.js.LICENSE.txt": "/TimerProject/static/js/2.3c8f35a1.chunk.js.LICENSE.txt",
     "static/media/index.css": "/TimerProject/static/media/back2.a4fc5aaa.jpg"
   },
@@ -20,7 +20,7 @@
     "static/js/runtime-main.a027f383.js",
     "static/css/2.fe359a49.chunk.css",
     "static/js/2.3c8f35a1.chunk.js",
-    "static/css/main.b76c0683.chunk.css",
+    "static/css/main.a8c41269.chunk.css",
     "static/js/main.af9099c1.chunk.js"
   ]
 }
