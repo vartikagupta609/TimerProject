@@ -1,6 +1,6 @@
 # TimerProject
 
-Count Down Timer
+Count Down Timer using React js
 
 Published Url https://vartikagupta609.github.io/TimerProject/
 
